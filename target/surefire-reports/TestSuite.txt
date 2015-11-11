@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.374 sec <<< FAILURE!
+testFailed(com.chjvps.test.samples.AppTest)  Time elapsed: 0.007 sec  <<< FAILURE!
+java.lang.AssertionError: Case failed
+	at com.chjvps.test.samples.AppTest.testFailed(AppTest.java:21)
+
